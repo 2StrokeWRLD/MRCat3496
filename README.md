@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRCat3496
-- 👀 I’m interested in Visual Studio 2022
-- 🌱 I’m currently learning Html
+- 👀 I’m interested in c# and java development
+- 🌱 I’m currently learning more c# and java
 - 💞️ I’m looking to collaborate on xlsimridalx
 - 📫 How to reach me [...](https://mrcat3496.github.io/)
